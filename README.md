@@ -1,4 +1,3 @@
-# Regex in PHP – Der komplette Guide vom Anfänger zum Profi
 # Regex in PHP - The Complete Guide from Beginner to Pro
 
 🌐 **Sprachauswahl / Language Selection**:
