@@ -1,7 +1,3 @@
-Natürlich! Hier ist die englische Übersetzung deines Blogbeitrags:
-
----
-
 # Regex in PHP: The Complete Guide from Beginner to Pro
 
 Regular expressions (Regex) are a powerful tool for searching, validating, and manipulating text. Although they may seem complex at first glance, they are an indispensable tool for every PHP developer. In this article, I’ll show you how to effectively use Regex in PHP—from the basics to advanced techniques.
@@ -235,7 +231,3 @@ Regex is an indispensable tool for text manipulation in PHP. With the basics and
 - [Regex101](https://regex101.com/): An interactive tool for testing and debugging Regex.
 - [PHP PCRE Documentation](https://www.php.net/manual/en/book.pcre.php): The official documentation for Regex in PHP.
 - [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html): A useful cheat sheet for Regex.
-
----
-
-I hope this translation helps! Let me know if you need further assistance. 😊
